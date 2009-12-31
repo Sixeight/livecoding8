@@ -7,6 +7,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 ## お知らせ
 
 LiveCoding#8 は現在 LiveCoder を募集中です。
+
 詳しくは [西村(Sixeight)](tomohiro68@gmail.com) まで。
 
 ## 概要(予定)
