@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="alternate" type="application/rss+xml" title="LiveCoding#8" href="feed.rss" />
+
+    <title>Sixeight/livecoding8 @ GitHub</title>
+
+    <style type="text/css">
+      body {
+        margin-top: 1.0em;
+        background-color: black;
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans, FreeSans, Jamrul, Garuda, Kalimati;
+        color: #111;
+      }
+      #bg {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        z-index: 0;
+      }
+      #container {
+        position: absolute;
+        left: 20px;
+        top: 20px;
+        margin: 0 auto;
+        width: 700px;
+      }
+      #TB_overlay {
+        border: solid 1px black;
+        position: absolute;
+        z-index:100;
+        top: 0px;
+        left: 0px;
+        background-color: #eee;
+        filter:alpha(opacity=80);
+        -moz-opacity: 0.8;
+        opacity: 0.8;
+        padding: 0 10px;
+        padding-right: 20px;
+      }
+
+      #transp {
+        filter: alpha(opacity=25);
+        -moz-opacity:0.25;
+        opacity:0.25;
+      }
+      h1 { font-size: 3.8em; color: #0f2350; margin-bottom: 3px; }
+      h1 .small { font-size: 0.4em; }
+      h1 a { text-decoration: none }
+      h2 { font-size: 1.5em; color: #0f2350; }
+      h3 { text-align: center; color: #0f2350; }
+      a { color: #0f2350; }
+      .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+      .download { float: right; }
+      pre { background: #000; color: #fff; padding: 15px;}
+      hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+      .footer { text-align:center; padding-top:30px; font-style: italic; }
+      ul { margin-bottom: 15px; }
+    </style>
+
+  </head>
+
+  <body>
+    <img id="bg" src="http://farm3.static.flickr.com/2425/4009161072_28a6c52780_b_d.jpg" />
+    <a href="http://github.com/Sixeigh/livecoding8"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+
+    <div id="container">
+      <div id="TB_overlay">
+        <div class="download">
+          <a href="http://github.com/Sixeight/livecoding8/zipball/master">
+            <img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
+          <a href="http://github.com/Sixeight/livecoding8/tarball/master">
+            <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
+        </div>
+
+        <%= @body %>
+
+        <div class="footer">
+          get the source code on GitHub : <a href="http://github.com/Sixeight/livecoding8">Sixeight/livecoding8</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
