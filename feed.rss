@@ -10,6 +10,30 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>fc6ff669160896859b01a8bcce11c61db49da814</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix a bit
+
+diff --git a/README.md b/README.md
+index 750fff2..33e8d43 100644
+--- a/README.md
++++ b/README.md
+@@ -7,6 +7,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## お知らせ
+ 
+ LiveCoding#8 は現在 LiveCoder を募集中です。
++
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Thu Dec 31 16:14:56 +0900 2009</pubDate>
+      <dc:date>Thu Dec 31 16:14:56 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>9ff959cb153d381d5ce00fcb874afc181515a850</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
