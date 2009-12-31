@@ -5,9 +5,137 @@
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Recent Commits to livecoding7:master with Diff</title>
-    <link>http://sixeight.github.com/livecoding7/</link>
-    <description>Recent Commits to livecoding7:master with Diff</description>
+    <title>Recent Commits to livecoding8:master with Diff</title>
+    <link>http://sixeight.github.com/livecoding8/</link>
+    <description>Recent Commits to livecoding8:master with Diff</description>
+    
+    <item>
+      <title>9ff959cb153d381d5ce00fcb874afc181515a850</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix title
+
+diff --git a/README.md b/README.md
+index 490cb10..750fff2 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+-# LiveCoding#7
++# LiveCoding#8
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+
+</pre>]]></description>
+      <pubDate>Thu Dec 31 16:07:06 +0900 2009</pubDate>
+      <dc:date>Thu Dec 31 16:07:06 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>b3a6511aa28a6b4787b4e2ae36c987f7b976abce</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..490cb10
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,89 @@
++# LiveCoding#7
++
++&lt;div id=&quot;path&quot;&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
++&lt;/div&gt;
++
++## お知らせ
++
++LiveCoding#8 は現在 LiveCoder を募集中です。
++詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
++
++## 概要(予定)
++* **2010-01-23 (土) 17時半開場、18時開始**
++* [京都西陣町家スタジオ](http://nishi-jin.net/)
++* 参加費: 3000円 (飲食込み)
++
++LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
++
++## LiveCodingについて詳しく
++一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
++LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
++さらに解説役が常にLiveCoderの挙動を説明します。
++
++&gt; A 「コンパイル中です・・・、お、おおお、なんと、Syntax error!」
++&gt;
++&gt; B 「これは恥ずかしい…」
++&gt;
++&gt; LiveCoder 「(/// 」
++
++LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
++ただし、観客の要望で仕様が強制的に変更になることがあります。
++どう考えても20分以内に実装できないことが明らかな場合、仕様変更要望は無視できます。
++
++* 一人のLiveCoderに対して二人の解説役が付くことがうまくいくという経験則があります。
++* LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
++  もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
++
++## Contents
++
++* LiveCoderを募集中です。
++  * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
++
++## xxxHackathon
++* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
++    * 案1: LLVM Hackathon
++    * 案2: Vim Hackathon
++    * 案3: Android Hackathon
++
++### 補足
++* 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
++
++## LiveCoding#6(前回開催)の様子
++
++&lt;http://Sixeight.github.com/livecoding7&gt;
++
++----
++
++# LiveCoding#8
++
++## SUMMARY
++* January 23 2010 (Sat) OPEN: 17:30, START: 18:00
++* [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
++* Fee: 3,000 yen
++
++LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
++It is amusing that we watch a super technique of a great hacker rowdy.
++
++## REGISTRATION
++
++//Now avairable.
++//We accept the first 30 people!
++//
++//&lt;http://cotocoto.jp/event/33314&gt;
++
++## DETAILS
++A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
++How the LiveCoder is coding is completely going on screen with a projector.
++And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
++
++&gt; A: She is compiling it... Wow! Syntax error has occurred!
++&gt;
++&gt; B: LOL
++&gt;
++&gt; LiveCoder: (///
++
++## CONTENTS
++
++* Please wait..
++
+</pre>]]></description>
+      <pubDate>Thu Dec 31 16:00:36 +0900 2009</pubDate>
+      <dc:date>Thu Dec 31 16:00:36 +0900 2009</dc:date>
+    </item>
     
   </channel>
 </rss>
