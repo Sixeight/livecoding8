@@ -38,6 +38,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
+* [yaotti](http://d.hatena.ne.jp/yaotti/)
+
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
@@ -50,7 +52,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 ### 補足
 * 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
 
-## LiveCoding#6(前回開催)の様子
+## LiveCoding#7(前回開催)の様子
 
 <http://Sixeight.github.com/livecoding7>
 
