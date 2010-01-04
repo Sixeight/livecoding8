@@ -10,6 +10,113 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>cd22c43b5144f4ebebb10e1f4c66512b02cdecd9</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix a bit
+
+diff --git a/README.md b/README.md
+index 9d7bc79..42c8941 100644
+--- a/README.md
++++ b/README.md
+@@ -70,10 +70,12 @@ It is amusing that we watch a super technique of a great hacker rowdy.
+ 
+ ## REGISTRATION
+ 
+-//Now avairable.
+-//We accept the first 30 people!
+-//
+-//&lt;http://cotocoto.jp/event/33314&gt;
++&lt;!--
++Now avairable.
++We accept the first 30 people!
++--&gt;
++
++Please wait.
+ 
+ ## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+
+</pre>]]></description>
+      <pubDate>Tue Jan 05 00:51:11 +0900 2010</pubDate>
+      <dc:date>Tue Jan 05 00:51:11 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>35cce4711f6af1814b9f070391996cbbf2fab1df</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    minor fix
+
+diff --git a/README.md b/README.md
+index 7227a77..9d7bc79 100644
+--- a/README.md
++++ b/README.md
+@@ -52,7 +52,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ ### 補足
+ * 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
+ 
+-## LiveCoding#6(前回開催)の様子
++## LiveCoding#7(前回開催)の様子
+ 
+ &lt;http://Sixeight.github.com/livecoding7&gt;
+ 
+
+</pre>]]></description>
+      <pubDate>Mon Jan 04 15:58:58 +0900 2010</pubDate>
+      <dc:date>Mon Jan 04 15:58:58 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>f8a12faab2198e19737f001b8f5cb3f31b9aba16</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add yaotti as LiveCoder
+
+diff --git a/README.md b/README.md
+index 33e8d43..7227a77 100644
+--- a/README.md
++++ b/README.md
+@@ -38,6 +38,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
++* [yaotti](http://d.hatena.ne.jp/yaotti/)
++
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+
+</pre>]]></description>
+      <pubDate>Mon Jan 04 15:58:42 +0900 2010</pubDate>
+      <dc:date>Mon Jan 04 15:58:42 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>fc6ff669160896859b01a8bcce11c61db49da814</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix a bit
+
+diff --git a/README.md b/README.md
+index 750fff2..33e8d43 100644
+--- a/README.md
++++ b/README.md
+@@ -7,6 +7,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## お知らせ
+ 
+ LiveCoding#8 は現在 LiveCoder を募集中です。
++
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Thu Dec 31 16:14:56 +0900 2009</pubDate>
+      <dc:date>Thu Dec 31 16:14:56 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>9ff959cb153d381d5ce00fcb874afc181515a850</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
