@@ -70,10 +70,12 @@ It is amusing that we watch a super technique of a great hacker rowdy.
 
 ## REGISTRATION
 
-//Now avairable.
-//We accept the first 30 people!
-//
-//<http://cotocoto.jp/event/33314>
+<!--
+Now avairable.
+We accept the first 30 people!
+-->
+
+Please wait.
 
 ## DETAILS
 A "LiveCoder" creates a new software within 20 minutes, and demonstrates it.
