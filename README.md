@@ -103,6 +103,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 ## xxxHackathon
 
 * After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
-** Plan 1: LLVM Hackathon
-** Plan 2: Vim Hackathon
-** Plan 3: Android Hackathon
+     * Plan 1: LLVM Hackathon
+     * Plan 2: Vim Hackathon
+     * Plan 3: Android Hackathon
