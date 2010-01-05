@@ -65,22 +65,22 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
 * Fee: 3,000 yen
 
-LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
-It is amusing that we watch a super technique of a great hacker rowdy.
+LiveCoding is a new trend where programmers present their programming techniques live.
+It is exciting that we have a chance to watch the super techniques of great hackers.
 
 ## REGISTRATION
 
 <!--
-Now avairable.
+Now available.
 We accept the first 30 people!
 -->
 
 Please wait.
 
 ## DETAILS
-A "LiveCoder" creates a new software within 20 minutes, and demonstrates it.
-How the LiveCoder is coding is completely going on screen with a projector.
-And "Play-by-Play commentaries" are always explaining what he/she is doing.
+A "LiveCoder" creates new software within 20 minutes, and demonstrates it.
+Everything the LiveCoder does is displayed on a large screen by projector.
+They give "Play-by-Play commentaries" explaining what he/she is doing the entire time.
 
 > A: She is compiling it... Wow! Syntax error has occurred!
 >
@@ -88,7 +88,21 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 >
 > LiveCoder: (///
 
+The LiveCoder decides what they will present before coming to the LiveCoding event.
+However, their topic can change at the request of the audience.
+In case the presentation cannot be completed within 20 minutes, requests can be ignored.
+
+* There is a case where one LiveCoder can add another person for commentary if done well.
+* A LiveCoder cannot use any previous work done at a prior LiveCoding event.  That's not LiveCoding, merely a replay.
+
 ## CONTENTS
 
-* Please wait..
+* [yaotti](http://d.hatena.ne.jp/yaotti/)
+* Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
 
+## xxxHackathon
+
+* After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
+     * Plan 1: LLVM Hackathon
+     * Plan 2: Vim Hackathon
+     * Plan 3: Android Hackathon
