@@ -10,6 +10,103 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>2dea3915fe62c7b11e6669d515ed36f6fd88333d</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    markdown, not textile
+
+diff --git a/README.md b/README.md
+index 4063181..81b6b60 100644
+--- a/README.md
++++ b/README.md
+@@ -103,6 +103,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ ## xxxHackathon
+ 
+ * After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
+-** Plan 1: LLVM Hackathon
+-** Plan 2: Vim Hackathon
+-** Plan 3: Android Hackathon
+\ No newline at end of file
++     * Plan 1: LLVM Hackathon
++     * Plan 2: Vim Hackathon
++     * Plan 3: Android Hackathon
+\ No newline at end of file
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 02:52:08 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 02:52:08 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>6bec9a2967892bde830727bc05ba66a986d6ee44</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    translated the rest of the Japanese, and corrected some words
+
+diff --git a/README.md b/README.md
+index 7cb0c9f..4063181 100644
+--- a/README.md
++++ b/README.md
+@@ -65,22 +65,22 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+ * Fee: 3,000 yen
+ 
+-LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+-It is amusing that we watch a super technique of a great hacker rowdy.
++LiveCoding is a new trend where programmers present their programming techniques live.
++It is exciting that we have a chance to watch the super techniques of great hackers.
+ 
+ ## REGISTRATION
+ 
+ &lt;!--
+-Now avairable.
++Now available.
+ We accept the first 30 people!
+ --&gt;
+ 
+ Please wait.
+ 
+ ## DETAILS
+-A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+-How the LiveCoder is coding is completely going on screen with a projector.
+-And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
++A &quot;LiveCoder&quot; creates new software within 20 minutes, and demonstrates it.
++Everything the LiveCoder does is displayed on a large screen by projector.
++They give &quot;Play-by-Play commentaries&quot; explaining what he/she is doing the entire time.
+ 
+ &gt; A: She is compiling it... Wow! Syntax error has occurred!
+ &gt;
+@@ -88,7 +88,21 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ &gt;
+ &gt; LiveCoder: (///
+ 
++The LiveCoder decides what they will present before coming to the LiveCoding event.
++However, their topic can change at the request of the audience.
++In case the presentation cannot be completed within 20 minutes, requests can be ignored.
++
++* There is a case where one LiveCoder can add another person for commentary if done well.
++* A LiveCoder cannot use any previous work done at a prior LiveCoding event.  That's not LiveCoding, merely a replay.
++
+ ## CONTENTS
+ 
+-* Please wait..
++* [yaotti](http://d.hatena.ne.jp/yaotti/)
++* Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
++
++## xxxHackathon
+ 
++* After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
++** Plan 1: LLVM Hackathon
++** Plan 2: Vim Hackathon
++** Plan 3: Android Hackathon
+\ No newline at end of file
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 02:50:27 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 02:50:27 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>62f2e9e44ccb42940b206d4e58545061023151a0</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
