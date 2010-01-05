@@ -1,4 +1,4 @@
-# LiveCoding#8
+# LiveCoding#8+1
 
 <div id="path">
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding7 at master" /></a>
@@ -6,7 +6,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 ## お知らせ
 
-LiveCoding#8 は現在 LiveCoder を募集中です。
+LiveCoding#8+1 は現在 LiveCoder を募集中です。
 
 詳しくは [西村(Sixeight)](tomohiro68@gmail.com) まで。
 
@@ -58,7 +58,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ----
 
-# LiveCoding#8
+# LiveCoding#8+1
 
 ## SUMMARY
 * January 23 2010 (Sat) OPEN: 17:30, START: 18:00
