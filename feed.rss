@@ -10,6 +10,79 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>62f2e9e44ccb42940b206d4e58545061023151a0</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    rename into LiveCoding#8+1
+
+diff --git a/README.md b/README.md
+index 42c8941..7cb0c9f 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+-# LiveCoding#8
++# LiveCoding#8+1
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+@@ -6,7 +6,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ ## お知らせ
+ 
+-LiveCoding#8 は現在 LiveCoder を募集中です。
++LiveCoding#8+1 は現在 LiveCoder を募集中です。
+ 
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+@@ -58,7 +58,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ----
+ 
+-# LiveCoding#8
++# LiveCoding#8+1
+ 
+ ## SUMMARY
+ * January 23 2010 (Sat) OPEN: 17:30, START: 18:00
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 01:29:54 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 01:29:54 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>cd22c43b5144f4ebebb10e1f4c66512b02cdecd9</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix a bit
+
+diff --git a/README.md b/README.md
+index 9d7bc79..42c8941 100644
+--- a/README.md
++++ b/README.md
+@@ -70,10 +70,12 @@ It is amusing that we watch a super technique of a great hacker rowdy.
+ 
+ ## REGISTRATION
+ 
+-//Now avairable.
+-//We accept the first 30 people!
+-//
+-//&lt;http://cotocoto.jp/event/33314&gt;
++&lt;!--
++Now avairable.
++We accept the first 30 people!
++--&gt;
++
++Please wait.
+ 
+ ## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+
+</pre>]]></description>
+      <pubDate>Tue Jan 05 00:51:11 +0900 2010</pubDate>
+      <dc:date>Tue Jan 05 00:51:11 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>35cce4711f6af1814b9f070391996cbbf2fab1df</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
