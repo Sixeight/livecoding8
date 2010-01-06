@@ -10,6 +10,38 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>a9fc87408d7f37a974321dc2e574c116ea029650</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix typo
+
+diff --git a/README.md b/README.md
+index 81b6b60..850bed1 100644
+--- a/README.md
++++ b/README.md
+@@ -50,7 +50,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * 案3: Android Hackathon
+ 
+ ### 補足
+-* 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
++* 会場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
+ 
+ ## LiveCoding#7(前回開催)の様子
+ 
+@@ -105,4 +105,4 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ * After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
+      * Plan 1: LLVM Hackathon
+      * Plan 2: Vim Hackathon
+-     * Plan 3: Android Hackathon
+\ No newline at end of file
++     * Plan 3: Android Hackathon
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 10:34:07 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 10:34:07 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>2dea3915fe62c7b11e6669d515ed36f6fd88333d</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
