@@ -10,6 +10,31 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>db2ae04814a775b6086adebc2f2f0c007d15bb4b</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix name
+
+diff --git a/README.md b/README.md
+index 850bed1..045f853 100644
+--- a/README.md
++++ b/README.md
+@@ -38,7 +38,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/)
++* [yaotti](http://d.hatena.ne.jp/yaotti/) さん
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 01:36:29 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 01:36:29 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>a9fc87408d7f37a974321dc2e574c116ea029650</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
