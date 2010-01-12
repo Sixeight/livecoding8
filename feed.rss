@@ -10,6 +10,287 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>f66531cad8ad915e1da8b65b13786e3481f3c446</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    Added LiveCoder ujihisa
+
+diff --git a/README.md b/README.md
+index c90ee3b..afcce05 100644
+--- a/README.md
++++ b/README.md
+@@ -40,6 +40,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ * [yaotti](http://d.hatena.ne.jp/yaotti/) さん
+ 
++* [ujihisa](http://ujihisa.blogspot.com/) さん
++  * LLVMかparse.yかTermtterかVimで何かをします!
++
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -102,6 +105,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ ## CONTENTS
+ 
+ * [yaotti](http://d.hatena.ne.jp/yaotti/)
++* [ujihisa](http://ujihisa.blogspot.com/)
++  * Will do something with LLVM, parse.y, Termtter or Vim!
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+ ## xxxHackathon
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 05:21:00 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 05:21:00 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>eba5809625e750ba8d2c6fe155f6f2f0ab9db6f1</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    This is LiveCoding8
+
+diff --git a/README.md b/README.md
+index dd55473..c90ee3b 100644
+--- a/README.md
++++ b/README.md
+@@ -1,7 +1,7 @@
+ # LiveCoding#8+1
+ 
+ &lt;div id=&quot;path&quot;&gt;
+-Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## お知らせ
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 05:19:01 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 05:19:01 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>1c29e9b33038e5136053e35a224d17612ca040ad</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add 一般参加
+
+diff --git a/README.md b/README.md
+index 045f853..dd55473 100644
+--- a/README.md
++++ b/README.md
+@@ -43,6 +43,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
++## 一般参加
++
++* 一般参加受付は１月１８日（月）を予定しております。
++
+ ## xxxHackathon
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+     * 案1: LLVM Hackathon
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 01:57:19 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 01:57:19 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>db2ae04814a775b6086adebc2f2f0c007d15bb4b</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix name
+
+diff --git a/README.md b/README.md
+index 850bed1..045f853 100644
+--- a/README.md
++++ b/README.md
+@@ -38,7 +38,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/)
++* [yaotti](http://d.hatena.ne.jp/yaotti/) さん
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 01:36:29 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 01:36:29 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>a9fc87408d7f37a974321dc2e574c116ea029650</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix typo
+
+diff --git a/README.md b/README.md
+index 81b6b60..850bed1 100644
+--- a/README.md
++++ b/README.md
+@@ -50,7 +50,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * 案3: Android Hackathon
+ 
+ ### 補足
+-* 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
++* 会場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
+ 
+ ## LiveCoding#7(前回開催)の様子
+ 
+@@ -105,4 +105,4 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ * After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
+      * Plan 1: LLVM Hackathon
+      * Plan 2: Vim Hackathon
+-     * Plan 3: Android Hackathon
+\ No newline at end of file
++     * Plan 3: Android Hackathon
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 10:34:07 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 10:34:07 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>2dea3915fe62c7b11e6669d515ed36f6fd88333d</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    markdown, not textile
+
+diff --git a/README.md b/README.md
+index 4063181..81b6b60 100644
+--- a/README.md
++++ b/README.md
+@@ -103,6 +103,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ ## xxxHackathon
+ 
+ * After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
+-** Plan 1: LLVM Hackathon
+-** Plan 2: Vim Hackathon
+-** Plan 3: Android Hackathon
+\ No newline at end of file
++     * Plan 1: LLVM Hackathon
++     * Plan 2: Vim Hackathon
++     * Plan 3: Android Hackathon
+\ No newline at end of file
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 02:52:08 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 02:52:08 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>6bec9a2967892bde830727bc05ba66a986d6ee44</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    translated the rest of the Japanese, and corrected some words
+
+diff --git a/README.md b/README.md
+index 7cb0c9f..4063181 100644
+--- a/README.md
++++ b/README.md
+@@ -65,22 +65,22 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+ * Fee: 3,000 yen
+ 
+-LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+-It is amusing that we watch a super technique of a great hacker rowdy.
++LiveCoding is a new trend where programmers present their programming techniques live.
++It is exciting that we have a chance to watch the super techniques of great hackers.
+ 
+ ## REGISTRATION
+ 
+ &lt;!--
+-Now avairable.
++Now available.
+ We accept the first 30 people!
+ --&gt;
+ 
+ Please wait.
+ 
+ ## DETAILS
+-A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+-How the LiveCoder is coding is completely going on screen with a projector.
+-And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
++A &quot;LiveCoder&quot; creates new software within 20 minutes, and demonstrates it.
++Everything the LiveCoder does is displayed on a large screen by projector.
++They give &quot;Play-by-Play commentaries&quot; explaining what he/she is doing the entire time.
+ 
+ &gt; A: She is compiling it... Wow! Syntax error has occurred!
+ &gt;
+@@ -88,7 +88,21 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ &gt;
+ &gt; LiveCoder: (///
+ 
++The LiveCoder decides what they will present before coming to the LiveCoding event.
++However, their topic can change at the request of the audience.
++In case the presentation cannot be completed within 20 minutes, requests can be ignored.
++
++* There is a case where one LiveCoder can add another person for commentary if done well.
++* A LiveCoder cannot use any previous work done at a prior LiveCoding event.  That's not LiveCoding, merely a replay.
++
+ ## CONTENTS
+ 
+-* Please wait..
++* [yaotti](http://d.hatena.ne.jp/yaotti/)
++* Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
++
++## xxxHackathon
+ 
++* After the LiveCoding event, a Hackathon will probably occur straight until 7am the next morning, at the same place.
++** Plan 1: LLVM Hackathon
++** Plan 2: Vim Hackathon
++** Plan 3: Android Hackathon
+\ No newline at end of file
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 02:50:27 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 02:50:27 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>62f2e9e44ccb42940b206d4e58545061023151a0</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    rename into LiveCoding#8+1
+
+diff --git a/README.md b/README.md
+index 42c8941..7cb0c9f 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+-# LiveCoding#8
++# LiveCoding#8+1
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+@@ -6,7 +6,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ ## お知らせ
+ 
+-LiveCoding#8 は現在 LiveCoder を募集中です。
++LiveCoding#8+1 は現在 LiveCoder を募集中です。
+ 
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+@@ -58,7 +58,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ----
+ 
+-# LiveCoding#8
++# LiveCoding#8+1
+ 
+ ## SUMMARY
+ * January 23 2010 (Sat) OPEN: 17:30, START: 18:00
+
+</pre>]]></description>
+      <pubDate>Wed Jan 06 01:29:54 +0900 2010</pubDate>
+      <dc:date>Wed Jan 06 01:29:54 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>cd22c43b5144f4ebebb10e1f4c66512b02cdecd9</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
