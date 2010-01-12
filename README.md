@@ -40,6 +40,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 * [yaotti](http://d.hatena.ne.jp/yaotti/) さん
 
+* [ujihisa](http://ujihisa.blogspot.com/) さん
+  * LLVMかparse.yかTermtterかVimで何かをします!
+
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
@@ -102,6 +105,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 ## CONTENTS
 
 * [yaotti](http://d.hatena.ne.jp/yaotti/)
+* [ujihisa](http://ujihisa.blogspot.com/)
+  * Will do something with LLVM, parse.y, Termtter or Vim!
 * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
 
 ## xxxHackathon
