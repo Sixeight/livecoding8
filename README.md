@@ -38,7 +38,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
-* [yaotti](http://d.hatena.ne.jp/yaotti/)
+* [yaotti](http://d.hatena.ne.jp/yaotti/) さん
 
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
