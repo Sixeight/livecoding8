@@ -43,6 +43,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
+## 一般参加
+
+* 一般参加受付は１月１８日（月）を予定しております。
+
 ## xxxHackathon
 * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
     * 案1: LLVM Hackathon
