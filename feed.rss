@@ -10,6 +10,102 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>cfba73108e191883cfd1fe3434ee30034c00ba01</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add kenji as livecoder.
+
+diff --git a/README.md b/README.md
+index afcce05..6406a04 100644
+--- a/README.md
++++ b/README.md
+@@ -43,6 +43,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * [ujihisa](http://ujihisa.blogspot.com/) さん
+   * LLVMかparse.yかTermtterかVimで何かをします!
+ 
++* [けんじ](http://rainbowdevil.jp/) さん
++  * Androidで何かするプログラム
++
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -107,6 +110,9 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ * [yaotti](http://d.hatena.ne.jp/yaotti/)
+ * [ujihisa](http://ujihisa.blogspot.com/)
+   * Will do something with LLVM, parse.y, Termtter or Vim!
++* [KENJI](http://rainbowdevil.jp/)
++  * Will do somthing with Android.
++
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+ ## xxxHackathon
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 22:35:21 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 22:35:21 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>f66531cad8ad915e1da8b65b13786e3481f3c446</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    Added LiveCoder ujihisa
+
+diff --git a/README.md b/README.md
+index c90ee3b..afcce05 100644
+--- a/README.md
++++ b/README.md
+@@ -40,6 +40,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ * [yaotti](http://d.hatena.ne.jp/yaotti/) さん
+ 
++* [ujihisa](http://ujihisa.blogspot.com/) さん
++  * LLVMかparse.yかTermtterかVimで何かをします!
++
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -102,6 +105,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ ## CONTENTS
+ 
+ * [yaotti](http://d.hatena.ne.jp/yaotti/)
++* [ujihisa](http://ujihisa.blogspot.com/)
++  * Will do something with LLVM, parse.y, Termtter or Vim!
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+ ## xxxHackathon
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 05:21:00 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 05:21:00 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>eba5809625e750ba8d2c6fe155f6f2f0ab9db6f1</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    This is LiveCoding8
+
+diff --git a/README.md b/README.md
+index dd55473..c90ee3b 100644
+--- a/README.md
++++ b/README.md
+@@ -1,7 +1,7 @@
+ # LiveCoding#8+1
+ 
+ &lt;div id=&quot;path&quot;&gt;
+-Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## お知らせ
+
+</pre>]]></description>
+      <pubDate>Wed Jan 13 05:19:01 +0900 2010</pubDate>
+      <dc:date>Wed Jan 13 05:19:01 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>1c29e9b33038e5136053e35a224d17612ca040ad</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
