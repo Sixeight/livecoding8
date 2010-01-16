@@ -10,6 +10,76 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>ed351f39173ce74a98d133a026058cce6ce39a0a</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add sogawa as a coder and remove yaotti
+
+diff --git a/README.md b/README.md
+index 57e2573..f4f2c40 100644
+--- a/README.md
++++ b/README.md
+@@ -38,14 +38,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/) さん
+-
+ * [ujihisa](http://ujihisa.blogspot.com/) さん
+   * LLVMかparse.yかTermtterかVimで何かをします!
+ 
+ * [けんじ](http://rainbowdevil.jp/) さん
+   * Androidで何かするプログラム
+ 
++* [曽川] さん
++  * Flashの動的生成もしくは並列処理
++
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -107,11 +108,12 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ 
+ ## CONTENTS
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/)
+ * [ujihisa](http://ujihisa.blogspot.com/)
+   * Will do something with LLVM, parse.y, Termtter or Vim!
+ * [KENJI](http://rainbowdevil.jp/)
+   * Will do somthing with Android.
++* [Sogawa]
++  * Dynamic Flash creation.
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+
+</pre>]]></description>
+      <pubDate>Sat Jan 16 23:19:36 +0900 2010</pubDate>
+      <dc:date>Sat Jan 16 23:19:36 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>072050ab0893ca3a9175d829012ffc1a0a1d3c98</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    use title image
+
+diff --git a/README.md b/README.md
+index 6406a04..57e2573 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+-# LiveCoding#8+1
++# &lt;img src=&quot;http://farm5.static.flickr.com/4038/4271476099_b95d522b1d_o_d.png&quot; title=&quot;LiveCoding#8+1&quot; /&gt;
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+
+</pre>]]></description>
+      <pubDate>Thu Jan 14 03:05:58 +0900 2010</pubDate>
+      <dc:date>Thu Jan 14 03:05:58 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>cfba73108e191883cfd1fe3434ee30034c00ba01</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
