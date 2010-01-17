@@ -10,6 +10,41 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>90c0e4a2e063995f7a82203049c07b470b97c4f3</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    delete sogawa
+
+diff --git a/README.md b/README.md
+index f4f2c40..13ad6b6 100644
+--- a/README.md
++++ b/README.md
+@@ -44,9 +44,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * [けんじ](http://rainbowdevil.jp/) さん
+   * Androidで何かするプログラム
+ 
+-* [曽川] さん
+-  * Flashの動的生成もしくは並列処理
+-
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -112,8 +109,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+   * Will do something with LLVM, parse.y, Termtter or Vim!
+ * [KENJI](http://rainbowdevil.jp/)
+   * Will do somthing with Android.
+-* [Sogawa]
+-  * Dynamic Flash creation.
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+
+</pre>]]></description>
+      <pubDate>Sun Jan 17 17:50:24 +0900 2010</pubDate>
+      <dc:date>Sun Jan 17 17:50:24 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>ed351f39173ce74a98d133a026058cce6ce39a0a</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
