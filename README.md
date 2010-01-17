@@ -44,9 +44,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * [けんじ](http://rainbowdevil.jp/) さん
   * Androidで何かするプログラム
 
-* [曽川] さん
-  * Flashの動的生成もしくは並列処理
-
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
@@ -112,8 +109,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
   * Will do something with LLVM, parse.y, Termtter or Vim!
 * [KENJI](http://rainbowdevil.jp/)
   * Will do somthing with Android.
-* [Sogawa]
-  * Dynamic Flash creation.
 
 * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
 
