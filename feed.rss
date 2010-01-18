@@ -10,6 +10,28 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>8b729d9b484c13b42f031e85567dbe2eb6013b90</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix logo
+
+diff --git a/README.md b/README.md
+index 13ad6b6..fb23e45 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+-# &lt;img src=&quot;http://farm5.static.flickr.com/4038/4271476099_b95d522b1d_o_d.png&quot; title=&quot;LiveCoding#8+1&quot; /&gt;
++# &lt;img src=&quot;http://farm5.static.flickr.com/4056/4285051339_060632f81e_o_d.png&quot; title=&quot;LiveCoding#8+1&quot; /&gt;
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+
+</pre>]]></description>
+      <pubDate>Tue Jan 19 04:08:39 +0900 2010</pubDate>
+      <dc:date>Tue Jan 19 04:08:39 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>90c0e4a2e063995f7a82203049c07b470b97c4f3</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
