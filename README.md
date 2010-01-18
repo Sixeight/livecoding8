@@ -1,4 +1,4 @@
-# <img src="http://farm5.static.flickr.com/4038/4271476099_b95d522b1d_o_d.png" title="LiveCoding#8+1" />
+# <img src="http://farm5.static.flickr.com/4056/4285051339_060632f81e_o_d.png" title="LiveCoding#8+1" />
 
 <div id="path">
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding8 at master" /></a>
