@@ -10,6 +10,83 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>d09a727e8bd819f6153369c72ff3e0018aa98774</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    E.N.K.I
+
+diff --git a/README.md b/README.md
+index fb23e45..db56015 100644
+--- a/README.md
++++ b/README.md
+@@ -8,10 +8,12 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ LiveCoding#8+1 は現在 LiveCoder を募集中です。
+ 
++LiveCoderとはDJよろしく自分のコーディングを披露して観客を魅了するひとのことです。
++
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+ ## 概要(予定)
+-* **2010-01-23 (土) 17時半開場、18時開始**
++* **2010-某日 17時半開場、18時開始**
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費: 3000円 (飲食込み)
+ 
+@@ -38,18 +40,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [ujihisa](http://ujihisa.blogspot.com/) さん
+-  * LLVMかparse.yかTermtterかVimで何かをします!
+-
+-* [けんじ](http://rainbowdevil.jp/) さん
+-  * Androidで何かするプログラム
++* 未定
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+ ## 一般参加
+ 
+-* 一般参加受付は１月１８日（月）を予定しております。
++* 準備中です。
+ 
+ ## xxxHackathon
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+@@ -69,7 +67,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ # LiveCoding#8+1
+ 
+ ## SUMMARY
+-* January 23 2010 (Sat) OPEN: 17:30, START: 18:00
++* Someday 2010 OPEN: 17:30, START: 18:00
+ * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+ * Fee: 3,000 yen
+ 
+@@ -105,10 +103,7 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ 
+ ## CONTENTS
+ 
+-* [ujihisa](http://ujihisa.blogspot.com/)
+-  * Will do something with LLVM, parse.y, Termtter or Vim!
+-* [KENJI](http://rainbowdevil.jp/)
+-  * Will do somthing with Android.
++* To be assinged...
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+@@ -118,3 +113,4 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+      * Plan 1: LLVM Hackathon
+      * Plan 2: Vim Hackathon
+      * Plan 3: Android Hackathon
++
+
+</pre>]]></description>
+      <pubDate>Tue Jan 19 16:29:50 +0900 2010</pubDate>
+      <dc:date>Tue Jan 19 16:29:50 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>8b729d9b484c13b42f031e85567dbe2eb6013b90</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
