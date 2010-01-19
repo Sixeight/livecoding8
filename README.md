@@ -8,10 +8,12 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 LiveCoding#8+1 は現在 LiveCoder を募集中です。
 
+LiveCoderとはDJよろしく自分のコーディングを披露して観客を魅了するひとのことです。
+
 詳しくは [西村(Sixeight)](tomohiro68@gmail.com) まで。
 
 ## 概要(予定)
-* **2010-01-23 (土) 17時半開場、18時開始**
+* **2010-某日 17時半開場、18時開始**
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
 * 参加費: 3000円 (飲食込み)
 
@@ -38,18 +40,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
-* [ujihisa](http://ujihisa.blogspot.com/) さん
-  * LLVMかparse.yかTermtterかVimで何かをします!
-
-* [けんじ](http://rainbowdevil.jp/) さん
-  * Androidで何かするプログラム
+* 未定
 
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
 ## 一般参加
 
-* 一般参加受付は１月１８日（月）を予定しております。
+* 準備中です。
 
 ## xxxHackathon
 * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
@@ -69,7 +67,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 # LiveCoding#8+1
 
 ## SUMMARY
-* January 23 2010 (Sat) OPEN: 17:30, START: 18:00
+* Someday 2010 OPEN: 17:30, START: 18:00
 * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
 * Fee: 3,000 yen
 
@@ -105,10 +103,7 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 
 ## CONTENTS
 
-* [ujihisa](http://ujihisa.blogspot.com/)
-  * Will do something with LLVM, parse.y, Termtter or Vim!
-* [KENJI](http://rainbowdevil.jp/)
-  * Will do somthing with Android.
+* To be assinged...
 
 * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
 
@@ -118,3 +113,4 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
      * Plan 1: LLVM Hackathon
      * Plan 2: Vim Hackathon
      * Plan 3: Android Hackathon
+
