@@ -4,6 +4,16 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding8 at master" /></a>
 </div>
 
+## 重要なお知らせ
+
+LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
+
+楽しみにしていただいていた皆様には申し訳ありませんが、次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
+
+皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
+
+LiveCoding Staff 西村
+
 ## お知らせ
 
 LiveCoding#8+1 は現在 LiveCoder を募集中です。
