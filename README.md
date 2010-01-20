@@ -8,7 +8,9 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
 
-楽しみにしていただいていた皆様には申し訳ありませんが、次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
+楽しみにしていただいていた皆様には大変申し訳ありません。
+
+次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
 
 皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
 
