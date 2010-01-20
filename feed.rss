@@ -10,6 +10,39 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>9f06ec03eae390021f3cdf4385945e33ee9af35c</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    E.N.K.I
+
+diff --git a/README.md b/README.md
+index db56015..e88211e 100644
+--- a/README.md
++++ b/README.md
+@@ -4,6 +4,16 @@
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
++## 重要なお知らせ
++
++LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
++
++楽しみにしていただいていた皆様には申し訳ありませんが、次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
++
++皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
++
++LiveCoding Staff 西村
++
+ ## お知らせ
+ 
+ LiveCoding#8+1 は現在 LiveCoder を募集中です。
+
+</pre>]]></description>
+      <pubDate>Wed Jan 20 23:27:37 +0900 2010</pubDate>
+      <dc:date>Wed Jan 20 23:27:37 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>d09a727e8bd819f6153369c72ff3e0018aa98774</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
