@@ -10,6 +10,327 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>fad07da8e1b3efc07f5f0ac429ec469992d91d50</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add AzureStone as LiveCoder
+
+diff --git a/README.md b/README.md
+index 2b308d5..22f750b 100644
+--- a/README.md
++++ b/README.md
+@@ -40,7 +40,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* 未定
++* [AzureStoneさん](http://www.azurestone.org/)
++** 内容未定
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+
+</pre>]]></description>
+      <pubDate>Fri Feb 05 00:43:39 +0900 2010</pubDate>
+      <dc:date>Fri Feb 05 00:43:39 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>639a5bd3b712aadd12ce214b621c2fe3b080c812</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    3/6
+
+diff --git a/README.md b/README.md
+index 96b9e0e..2b308d5 100644
+--- a/README.md
++++ b/README.md
+@@ -4,18 +4,6 @@
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+-## 重要なお知らせ
+-
+-LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
+-
+-楽しみにしていただいていた皆様には大変申し訳ありません。
+-
+-次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
+-
+-皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
+-
+-LiveCoding Staff 西村
+-
+ ## お知らせ
+ 
+ LiveCoding#8+1 は現在 LiveCoder を募集中です。
+@@ -25,7 +13,7 @@ LiveCoderとはDJよろしく自分のコーディングを披露して観客を
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+ ## 概要(予定)
+-* **2010-某日 17時半開場、18時開始**
++* **2010 3月6日 17時半開場、18時開始**
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費: 3000円 (飲食込み)
+ 
+@@ -62,6 +50,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * 準備中です。
+ 
+ ## xxxHackathon
++* Hackathonについては会場の調整中です。
++
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+     * 案1: LLVM Hackathon
+     * 案2: Vim Hackathon
+
+</pre>]]></description>
+      <pubDate>Thu Feb 04 22:45:10 +0900 2010</pubDate>
+      <dc:date>Thu Feb 04 22:45:10 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>91b94664332693cfe3eded346bdcd8e35e2407e4</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix message
+
+diff --git a/README.md b/README.md
+index e88211e..96b9e0e 100644
+--- a/README.md
++++ b/README.md
+@@ -8,7 +8,9 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
+ 
+-楽しみにしていただいていた皆様には申し訳ありませんが、次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
++楽しみにしていただいていた皆様には大変申し訳ありません。
++
++次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
+ 
+ 皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
+ 
+
+</pre>]]></description>
+      <pubDate>Wed Jan 20 23:30:46 +0900 2010</pubDate>
+      <dc:date>Wed Jan 20 23:30:46 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>9f06ec03eae390021f3cdf4385945e33ee9af35c</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    E.N.K.I
+
+diff --git a/README.md b/README.md
+index db56015..e88211e 100644
+--- a/README.md
++++ b/README.md
+@@ -4,6 +4,16 @@
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
++## 重要なお知らせ
++
++LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
++
++楽しみにしていただいていた皆様には申し訳ありませんが、次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
++
++皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
++
++LiveCoding Staff 西村
++
+ ## お知らせ
+ 
+ LiveCoding#8+1 は現在 LiveCoder を募集中です。
+
+</pre>]]></description>
+      <pubDate>Wed Jan 20 23:27:37 +0900 2010</pubDate>
+      <dc:date>Wed Jan 20 23:27:37 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>d09a727e8bd819f6153369c72ff3e0018aa98774</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    E.N.K.I
+
+diff --git a/README.md b/README.md
+index fb23e45..db56015 100644
+--- a/README.md
++++ b/README.md
+@@ -8,10 +8,12 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ LiveCoding#8+1 は現在 LiveCoder を募集中です。
+ 
++LiveCoderとはDJよろしく自分のコーディングを披露して観客を魅了するひとのことです。
++
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+ ## 概要(予定)
+-* **2010-01-23 (土) 17時半開場、18時開始**
++* **2010-某日 17時半開場、18時開始**
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費: 3000円 (飲食込み)
+ 
+@@ -38,18 +40,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [ujihisa](http://ujihisa.blogspot.com/) さん
+-  * LLVMかparse.yかTermtterかVimで何かをします!
+-
+-* [けんじ](http://rainbowdevil.jp/) さん
+-  * Androidで何かするプログラム
++* 未定
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+ ## 一般参加
+ 
+-* 一般参加受付は１月１８日（月）を予定しております。
++* 準備中です。
+ 
+ ## xxxHackathon
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+@@ -69,7 +67,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ # LiveCoding#8+1
+ 
+ ## SUMMARY
+-* January 23 2010 (Sat) OPEN: 17:30, START: 18:00
++* Someday 2010 OPEN: 17:30, START: 18:00
+ * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+ * Fee: 3,000 yen
+ 
+@@ -105,10 +103,7 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ 
+ ## CONTENTS
+ 
+-* [ujihisa](http://ujihisa.blogspot.com/)
+-  * Will do something with LLVM, parse.y, Termtter or Vim!
+-* [KENJI](http://rainbowdevil.jp/)
+-  * Will do somthing with Android.
++* To be assinged...
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+@@ -118,3 +113,4 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+      * Plan 1: LLVM Hackathon
+      * Plan 2: Vim Hackathon
+      * Plan 3: Android Hackathon
++
+
+</pre>]]></description>
+      <pubDate>Tue Jan 19 16:29:50 +0900 2010</pubDate>
+      <dc:date>Tue Jan 19 16:29:50 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>8b729d9b484c13b42f031e85567dbe2eb6013b90</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix logo
+
+diff --git a/README.md b/README.md
+index 13ad6b6..fb23e45 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,4 @@
+-# &lt;img src=&quot;http://farm5.static.flickr.com/4038/4271476099_b95d522b1d_o_d.png&quot; title=&quot;LiveCoding#8+1&quot; /&gt;
++# &lt;img src=&quot;http://farm5.static.flickr.com/4056/4285051339_060632f81e_o_d.png&quot; title=&quot;LiveCoding#8+1&quot; /&gt;
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding8 at master&quot; /&gt;&lt;/a&gt;
+
+</pre>]]></description>
+      <pubDate>Tue Jan 19 04:08:39 +0900 2010</pubDate>
+      <dc:date>Tue Jan 19 04:08:39 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>90c0e4a2e063995f7a82203049c07b470b97c4f3</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    delete sogawa
+
+diff --git a/README.md b/README.md
+index f4f2c40..13ad6b6 100644
+--- a/README.md
++++ b/README.md
+@@ -44,9 +44,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * [けんじ](http://rainbowdevil.jp/) さん
+   * Androidで何かするプログラム
+ 
+-* [曽川] さん
+-  * Flashの動的生成もしくは並列処理
+-
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -112,8 +109,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+   * Will do something with LLVM, parse.y, Termtter or Vim!
+ * [KENJI](http://rainbowdevil.jp/)
+   * Will do somthing with Android.
+-* [Sogawa]
+-  * Dynamic Flash creation.
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+
+</pre>]]></description>
+      <pubDate>Sun Jan 17 17:50:24 +0900 2010</pubDate>
+      <dc:date>Sun Jan 17 17:50:24 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>ed351f39173ce74a98d133a026058cce6ce39a0a</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add sogawa as a coder and remove yaotti
+
+diff --git a/README.md b/README.md
+index 57e2573..f4f2c40 100644
+--- a/README.md
++++ b/README.md
+@@ -38,14 +38,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/) さん
+-
+ * [ujihisa](http://ujihisa.blogspot.com/) さん
+   * LLVMかparse.yかTermtterかVimで何かをします!
+ 
+ * [けんじ](http://rainbowdevil.jp/) さん
+   * Androidで何かするプログラム
+ 
++* [曽川] さん
++  * Flashの動的生成もしくは並列処理
++
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
+@@ -107,11 +108,12 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ 
+ ## CONTENTS
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/)
+ * [ujihisa](http://ujihisa.blogspot.com/)
+   * Will do something with LLVM, parse.y, Termtter or Vim!
+ * [KENJI](http://rainbowdevil.jp/)
+   * Will do somthing with Android.
++* [Sogawa]
++  * Dynamic Flash creation.
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+
+</pre>]]></description>
+      <pubDate>Sat Jan 16 23:19:36 +0900 2010</pubDate>
+      <dc:date>Sat Jan 16 23:19:36 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>072050ab0893ca3a9175d829012ffc1a0a1d3c98</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>

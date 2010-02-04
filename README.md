@@ -106,6 +106,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 
 ## CONTENTS
 
+* [AzureStone](http://www.azurestone.org/)
+
 * To be assinged...
 
 * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
