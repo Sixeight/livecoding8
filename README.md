@@ -4,18 +4,6 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding8 at master" /></a>
 </div>
 
-## 重要なお知らせ
-
-LiveCoding#8+1 は LiveCoder の数が集められなかったために延期することになりました。
-
-楽しみにしていただいていた皆様には大変申し訳ありません。
-
-次回開催はこのサイトもしくは [@haco_bu](http://twitter.com/haco_bu), [@Sixeight](http://twitter.com/Sixeight) でのアナウンスをお待ちください。
-
-皆様が素晴らしいコーディングをキメられるようお祈り申し上げます。
-
-LiveCoding Staff 西村
-
 ## お知らせ
 
 LiveCoding#8+1 は現在 LiveCoder を募集中です。
@@ -25,7 +13,7 @@ LiveCoderとはDJよろしく自分のコーディングを披露して観客を
 詳しくは [西村(Sixeight)](tomohiro68@gmail.com) まで。
 
 ## 概要(予定)
-* **2010-某日 17時半開場、18時開始**
+* **2010 3月6日 17時半開場、18時開始**
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
 * 参加費: 3000円 (飲食込み)
 
@@ -62,6 +50,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * 準備中です。
 
 ## xxxHackathon
+* Hackathonについては会場の調整中です。
+
 * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
     * 案1: LLVM Hackathon
     * 案2: Vim Hackathon
