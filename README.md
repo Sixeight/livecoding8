@@ -40,7 +40,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
-* 未定
+* [AzureStoneさん](http://www.azurestone.org/)
+** 内容未定
 
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
@@ -104,6 +105,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 * A LiveCoder cannot use any previous work done at a prior LiveCoding event.  That's not LiveCoding, merely a replay.
 
 ## CONTENTS
+
+* [AzureStone](http://www.azurestone.org/)
 
 * To be assinged...
 
