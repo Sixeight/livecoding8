@@ -10,6 +10,82 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>455d8d3e4c798482835e4d7500db42aaf0fcbf46</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix a bit
+
+diff --git a/README.md b/README.md
+index a849072..b588147 100644
+--- a/README.md
++++ b/README.md
+@@ -13,7 +13,7 @@ LiveCoderとはDJよろしく自分のコーディングを披露して観客を
+ 詳しくは [西村(Sixeight)](tomohiro68 at gmail com) まで。
+ 
+ ## 概要(予定)
+-* **2010 3月6日 17時半開場、18時開始**
++* **2010 3月6日(土) 17時半開場、18時開始**
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費: 3000円 (飲食込み)
+ 
+
+</pre>]]></description>
+      <pubDate>Fri Feb 05 00:57:28 +0900 2010</pubDate>
+      <dc:date>Fri Feb 05 00:57:28 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>d2bd9bf2388193dc33f86e6ae8c0966cf4fdd46f</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    Automatically updated index.html and feed.rss
+
+diff --git a/README.md b/README.md
+index 22f750b..a849072 100644
+--- a/README.md
++++ b/README.md
+@@ -106,6 +106,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ 
+ ## CONTENTS
+ 
++* [AzureStone](http://www.azurestone.org/)
++
+ * To be assinged...
+ 
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+
+</pre>]]></description>
+      <pubDate>Fri Feb 05 00:44:43 +0900 2010</pubDate>
+      <dc:date>Fri Feb 05 00:44:43 +0900 2010</dc:date>
+    </item>
+    
+    <item>
+      <title>fad07da8e1b3efc07f5f0ac429ec469992d91d50</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add AzureStone as LiveCoder
+
+diff --git a/README.md b/README.md
+index 2b308d5..22f750b 100644
+--- a/README.md
++++ b/README.md
+@@ -40,7 +40,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* 未定
++* [AzureStoneさん](http://www.azurestone.org/)
++** 内容未定
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+
+</pre>]]></description>
+      <pubDate>Fri Feb 05 00:43:39 +0900 2010</pubDate>
+      <dc:date>Fri Feb 05 00:43:39 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>639a5bd3b712aadd12ce214b621c2fe3b080c812</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
