@@ -40,8 +40,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
-* [AzureStoneさん](http://www.azurestone.org/)
-** 内容未定
+* [AzureStone](http://www.azurestone.org/) さん
+  * 内容未定
+*[けんじ](http://rainbowdevil.jp/) さん
+  * Androidで何かするプログラム
 
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
@@ -107,6 +109,9 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 ## CONTENTS
 
 * [AzureStone](http://www.azurestone.org/)
+* [KENJI](http://rainbowdevil.jp/)
+  * Will do somthing with Android.
+
 
 * To be assinged...
 
