@@ -42,6 +42,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 * [AzureStone](http://www.azurestone.org/) さん
   * 内容未定
+
 *[けんじ](http://rainbowdevil.jp/) さん
   * Androidで何かするプログラム
 
