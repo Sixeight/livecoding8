@@ -10,6 +10,30 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>2318b617bc007317e3d83ad86fa72c732d5275d5</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    fix contents
+
+diff --git a/README.md b/README.md
+index 7357d83..814d58b 100644
+--- a/README.md
++++ b/README.md
+@@ -42,6 +42,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ * [AzureStone](http://www.azurestone.org/) さん
+   * 内容未定
++
+ *[けんじ](http://rainbowdevil.jp/) さん
+   * Androidで何かするプログラム
+ 
+
+</pre>]]></description>
+      <pubDate>Fri Feb 12 10:28:15 +0900 2010</pubDate>
+      <dc:date>Fri Feb 12 10:28:15 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>a716897e66ea67b89a46d0879d5b3f3192333f53</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
