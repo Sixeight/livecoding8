@@ -10,7 +10,7 @@ LiveCoding#8+1 は現在 LiveCoder を募集中です。
 
 LiveCoderとはDJよろしく自分のコーディングを披露して観客を魅了するひとのことです。
 
-詳しくは [西村(Sixeight)](tomohiro68@gmail.com) まで。
+詳しくは [西村(Sixeight)](mailto:tomohiro68@gmail.com) まで。
 
 ## 概要(予定)
 * **2010 3月6日(土) 17時半開場、18時開始**
@@ -42,10 +42,12 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 * [AzureStone](http://www.azurestone.org/) さん
   * 内容未定
-
-*[けんじ](http://rainbowdevil.jp/) さん
+* [けんじ](http://rainbowdevil.jp/) さん
   * Androidで何かするプログラム
-
+* [ぱるお](http://twitter.com/paruonet) さん
+  * GWTで何かするプログラム
+* [bufferings](http://d.hatena.ne.jp/bufferings/) さん
+  * AppEngineのFWであるSlim3で何かを作ります。
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
@@ -111,7 +113,11 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 
 * [AzureStone](http://www.azurestone.org/)
 * [KENJI](http://rainbowdevil.jp/)
-  * Will do somthing with Android.
+  * Will do something with Android.
+* [Paruo](http://twitter.com/paruonet)
+  * Will do something with GWT.
+* [bufferings](http://d.hatena.ne.jp/bufferings/)
+  * Will do something with Slim3 on AppEngine.
 
 
 * To be assinged...
