@@ -4,14 +4,6 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding8 at master" /></a>
 </div>
 
-## お知らせ
-
-LiveCoding#8+1 は現在 LiveCoder を募集中です。
-
-LiveCoderとはDJよろしく自分のコーディングを披露して観客を魅了するひとのことです。
-
-詳しくは [西村(Sixeight)](mailto:tomohiro68@gmail.com) まで。
-
 ## 概要(予定)
 * **2010 3月6日(土) 17時半開場、18時開始**
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
@@ -48,8 +40,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
   * GWTで何かするプログラム
 * [bufferings](http://d.hatena.ne.jp/bufferings/) さん
   * AppEngineのFWであるSlim3で何かを作ります。
-* LiveCoderを募集中です。
-  * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
 ## 一般参加
 
@@ -118,11 +108,6 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
   * Will do something with GWT.
 * [bufferings](http://d.hatena.ne.jp/bufferings/)
   * Will do something with Slim3 on AppEngine.
-
-
-* To be assinged...
-
-* Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
 
 ## xxxHackathon
 
