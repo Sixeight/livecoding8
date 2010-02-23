@@ -10,6 +10,45 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>55994db8327de0c00ae9e9723bfc738b62ccea26</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    add サイロス誠さん as livecoder
+
+diff --git a/README.md b/README.md
+index 5c53ebd..ab39d2f 100644
+--- a/README.md
++++ b/README.md
+@@ -40,10 +40,12 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+   * GWTで何かするプログラム
+ * [bufferings](http://d.hatena.ne.jp/bufferings/) さん
+   * AppEngineのFWであるSlim3で何かを作ります。
++* [サイロス誠](http://d.hatena.ne.jp/cyross/) さん
++  * ノベルゲームを作る
+ 
+ ## 一般参加
+ 
+-* 準備中です。
++* ３月１日（月）から一般受付開始予定です。
+ 
+ ## xxxHackathon
+ * Hackathonについては会場の調整中です。
+@@ -108,6 +110,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+   * Will do something with GWT.
+ * [bufferings](http://d.hatena.ne.jp/bufferings/)
+   * Will do something with Slim3 on AppEngine.
++* [Cyross Makoto](http://d.hatena.ne.jp/cyross/)
++  * Will make a novel game.
+ 
+ ## xxxHackathon
+ 
+
+</pre>]]></description>
+      <pubDate>Tue Feb 23 21:47:59 +0900 2010</pubDate>
+      <dc:date>Tue Feb 23 21:47:59 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>c5b49951ceadb1c0011c22dca53b62fb982537f5</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
