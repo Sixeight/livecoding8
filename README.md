@@ -40,10 +40,12 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
   * GWTで何かするプログラム
 * [bufferings](http://d.hatena.ne.jp/bufferings/) さん
   * AppEngineのFWであるSlim3で何かを作ります。
+* [サイロス誠](http://d.hatena.ne.jp/cyross/) さん
+  * ノベルゲームを作る
 
 ## 一般参加
 
-* 準備中です。
+* ３月１日（月）から一般受付開始予定です。
 
 ## xxxHackathon
 * Hackathonについては会場の調整中です。
@@ -108,6 +110,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
   * Will do something with GWT.
 * [bufferings](http://d.hatena.ne.jp/bufferings/)
   * Will do something with Slim3 on AppEngine.
+* [Cyross Makoto](http://d.hatena.ne.jp/cyross/)
+  * Will make a novel game.
 
 ## xxxHackathon
 
