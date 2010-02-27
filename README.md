@@ -34,14 +34,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 * [AzureStone](http://www.azurestone.org/) さん
   * VimスクリプトとPerlで何かするプログラム
-* [けんじ](http://rainbowdevil.jp/) さん
-  * Androidで何かするプログラム
-* [ぱるお](http://twitter.com/paruonet) さん
-  * GWTで何かするプログラム
 * [bufferings](http://d.hatena.ne.jp/bufferings/) さん
   * AppEngineのFWであるSlim3で何かを作ります。
 * [サイロス誠](http://d.hatena.ne.jp/cyross/) さん
   * ノベルゲームを作る
+* [けんじ](http://rainbowdevil.jp/) さん
+  * Androidで何かするプログラム
+* [ぱるお](http://twitter.com/paruonet) さん
+  * GWTで何かするプログラム
 
 ## 一般参加
 
@@ -105,14 +105,14 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 
 * [AzureStone](http://www.azurestone.org/)
   * Will do something with VimScript and perl.
-* [KENJI](http://rainbowdevil.jp/)
-  * Will do something with Android.
-* [Paruo](http://twitter.com/paruonet)
-  * Will do something with GWT.
 * [bufferings](http://d.hatena.ne.jp/bufferings/)
   * Will do something with Slim3 on AppEngine.
 * [Cyross Makoto](http://d.hatena.ne.jp/cyross/)
   * Will make a novel game.
+* [KENJI](http://rainbowdevil.jp/)
+  * Will do something with Android.
+* [Paruo](http://twitter.com/paruonet)
+  * Will do something with GWT.
 
 ## xxxHackathon
 
