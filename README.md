@@ -33,7 +33,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 ## Contents
 
 * [AzureStone](http://www.azurestone.org/) さん
-  * 内容未定
+  * VimスクリプトとPerlで何かするプログラム
 * [けんじ](http://rainbowdevil.jp/) さん
   * Androidで何かするプログラム
 * [ぱるお](http://twitter.com/paruonet) さん
@@ -104,6 +104,7 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 ## CONTENTS
 
 * [AzureStone](http://www.azurestone.org/)
+  * Will do something with VimScript and perl.
 * [KENJI](http://rainbowdevil.jp/)
   * Will do something with Android.
 * [Paruo](http://twitter.com/paruonet)
