@@ -4,6 +4,9 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding8 at master" /></a>
 </div>
 
+## 申し込み受付を開始しました！
+一般参加から申し込み頂けます。
+
 ## 概要(予定)
 * **2010 3月6日(土) 17時半開場、18時開始**
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
@@ -45,7 +48,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## 一般参加
 
-* ３月１日（月）から一般受付開始予定です。
+参加申し込みは以下のURLから。
+**定員は25名なのでご注意下さい！**
+
+<a href="http://cotocoto.jp/event/38087">http://cotocoto.jp/event/38087</a>
+
 
 ## xxxHackathon
 * Hackathonについては会場の調整中です。
@@ -76,12 +83,10 @@ It is exciting that we have a chance to watch the super techniques of great hack
 
 ## REGISTRATION
 
-<!--
 Now available.
-We accept the first 30 people!
--->
+** We accept the first 30 people! **
 
-Please wait.
+<a href="http://cotocoto.jp/event/38087">http://cotocoto.jp/event/38087</a>
 
 ## DETAILS
 A "LiveCoder" creates new software within 20 minutes, and demonstrates it.
