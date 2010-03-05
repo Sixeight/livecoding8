@@ -42,7 +42,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * [サイロス誠](http://d.hatena.ne.jp/cyross/) さん
   * ノベルゲームを作る
 * [けんじ](http://rainbowdevil.jp/) さん
-  * Androidで何かするプログラム
+  * Google Waveのロボットを使った何か。
 * [ぱるお](http://twitter.com/paruonet) さん
   * GWTで何かするプログラム
 
@@ -115,7 +115,7 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 * [Cyross Makoto](http://d.hatena.ne.jp/cyross/)
   * Will make a novel game.
 * [KENJI](http://rainbowdevil.jp/)
-  * Will do something with Android.
+  * Will do something with Google Wave Robot.
 * [Paruo](http://twitter.com/paruonet)
   * Will do something with GWT.
 
