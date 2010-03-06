@@ -10,6 +10,40 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>5e0796a7b7b1d6316430f5240e2a1b36c7fc4bd8</title>
+      <link>http://sixeight.github.com/livecoding8/</link>
+      <description><![CDATA[<pre>
+    chagne content of kenji's show
+
+diff --git a/README.md b/README.md
+index c3c2600..5e23a47 100644
+--- a/README.md
++++ b/README.md
+@@ -42,7 +42,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * [サイロス誠](http://d.hatena.ne.jp/cyross/) さん
+   * ノベルゲームを作る
+ * [けんじ](http://rainbowdevil.jp/) さん
+-  * Androidで何かするプログラム
++  * Google Waveのロボットを使った何か。
+ * [ぱるお](http://twitter.com/paruonet) さん
+   * GWTで何かするプログラム
+ 
+@@ -115,7 +115,7 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ * [Cyross Makoto](http://d.hatena.ne.jp/cyross/)
+   * Will make a novel game.
+ * [KENJI](http://rainbowdevil.jp/)
+-  * Will do something with Android.
++  * Will do something with Google Wave Robot.
+ * [Paruo](http://twitter.com/paruonet)
+   * Will do something with GWT.
+ 
+
+</pre>]]></description>
+      <pubDate>Fri Mar 05 11:01:30 +0900 2010</pubDate>
+      <dc:date>Fri Mar 05 11:01:30 +0900 2010</dc:date>
+    </item>
+    
+    <item>
       <title>b401c02d9fd635b0e09234f96d8b748f73ff22fe</title>
       <link>http://sixeight.github.com/livecoding8/</link>
       <description><![CDATA[<pre>
